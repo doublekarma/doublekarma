@@ -1,6 +1,6 @@
 ## Hi there, I'm Domenico - aka [doublekarma](doublekarma.github.io) 👋🏻 - from Sicily 🌊
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalizi-dev/)](www.linkedin.com/in/dom-ricco) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/kalizi)](https://github.com/doublekarma) [![Twitter Follow](https://img.shields.io/twitter/follow/dom_ricco?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/dom_ricco)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dom-ricco/)](www.linkedin.com/in/dom-ricco) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/kalizi)](https://github.com/doublekarma) [![Twitter Follow](https://img.shields.io/twitter/follow/dom_ricco?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/dom_ricco)
 
 ## 📜 Certificate in Data Analytics @ Boolean tech academy
 
